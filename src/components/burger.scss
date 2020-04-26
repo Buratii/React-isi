@@ -1,11 +1,4 @@
 .hamburger {
-  display: inline-block;
   cursor: pointer;
-
-  &__line {
-    width: 30px;
-    height: 4px;
-    background-color: #333;
-    margin: 4px 0;
-  }
+  padding: 0 6px;
 }
