@@ -3,11 +3,11 @@ import "./burger.scss";
 
 function Burger() {
   return (
-    <div className="hamburger">
+    <span className="hamburger">
       <div className="hamburger__line"></div>
       <div className="hamburger__line"></div>
       <div className="hamburger__line"></div>
-    </div>
+    </span>
   );
 }
 export default Burger;
